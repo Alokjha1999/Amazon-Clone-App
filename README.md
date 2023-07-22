@@ -10,7 +10,7 @@
 
 <h3> To use this project, follow these steps:</h3>
 
-    - Clone the repository: git clone https://github.com/amaranand360/amazon-clone-react-app-project.git
+    
     - Install the dependencies: npm install
     - Start the development server: npm start
 
